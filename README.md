@@ -13,14 +13,13 @@ Synthetic oversampling (SMOTE) is intentionally avoided to preserve the real-wor
 
 ---
 
-## Notebook
+## Interactive Notebook
 
 All analysis, modeling, and evaluation are included in a single notebook:  
-- [View Notebook on GitHub](notebooks/churn-prediction.ipynb)  
-- [View Notebook on NBViewer](https://nbviewer.org/github/yourusername/churn-prediction/blob/main/notebooks/churn-prediction.ipynb)
+ - [🔍 View Full Notebook on NBViewer](https://nbviewer.org/github/Sirgic7/Cost-Sensitive-Churn-Detection-No-SMOTE-FN-Optimized-/blob/main/notebook/churn-prediction.ipynb)
 
 Contains EDA, data preprocessing, model training, threshold tuning, and evaluation.  
-You can view it directly on GitHub or download it to run locally.
+You can view it directly on **NBViewer** or **download** GitHub it to run locally.
 
 ---
 
@@ -58,11 +57,13 @@ All models were tuned with a cost-sensitive approach, prioritizing business-crit
 
 ## Project Structure
 
-├── notebooks/ # EDA and modeling notebooks
+├── notebooks/
 
-├── src/ # Modular Python code
+│     └── churn-prediction.ipynb
 
-├── data/ # Sample dataset
+├── data/
+
+│     └── Telco_Cusomer_Churn.csv    
 
 ├── requirements.txt
 
