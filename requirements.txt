@@ -1,0 +1,9 @@
+Jupyter Notebook
+Pandas
+NumPy
+Matplotlib
+seaborn
+missingno
+Scikit-learn
+CatBoost 
+xgboost
