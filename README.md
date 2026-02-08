@@ -17,6 +17,7 @@ Synthetic oversampling (SMOTE) is intentionally avoided to preserve the real-wor
 
 All analysis, modeling, and evaluation are included in a single notebook:  
  - [🔍 View Full Notebook on NBViewer](https://nbviewer.org/github/Sirgic7/Cost-Sensitive-Churn-Detection-No-SMOTE-FN-Optimized-/blob/main/notebook/churn-prediction.ipynb)
+ - [🔍View Full Notebook on github](notebook/churn-prediction.ipynb)
 
 Contains EDA, data preprocessing, model training, threshold tuning, and evaluation.  
 You can view it directly on **NBViewer** or **download** GitHub it to run locally.
